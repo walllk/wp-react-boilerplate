@@ -1,1 +1,1 @@
-<div id="root"></div>
+<div data-component="App"></div>
